@@ -2,6 +2,7 @@
 
 Primer repositorio
 
-i love :milanesesWithFriesPotatos: :pizza: :delIceCreamSoyFanatico:
+i love :milaneses: 🍕 🍨 🥞 <- Esos son panqueque con dulce de leche
 
 Debería haber un icono para la milanesa, esto es inaudito.
+
